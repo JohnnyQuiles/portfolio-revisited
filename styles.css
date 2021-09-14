@@ -8,5 +8,7 @@
 }
 /* menu styling */
 .MenuBar{
-    background-color: ;
+    position: fixed;
+    width: 100%;
+    background-color: #212B40;
 }
