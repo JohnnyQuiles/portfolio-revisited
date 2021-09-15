@@ -6,8 +6,13 @@
     text-decoration: none;
 }
 
-.navbar{
+.menubar{
     position: fixed;
     width: 100%;
     background: #34435E;
+    font-family: 'Ubuntu', sans-serif;
+}
+.menubar .menu li a{
+    color: #fff;
+
 }
